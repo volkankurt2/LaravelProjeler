@@ -3,8 +3,7 @@
 	<!-- begin::Head -->
 <head>
     <meta charset="utf-8" />
-    <title>
-        Destek Talebi
+    <title>test title değiştirildi git add
     </title>
     <meta name="description" content="User profile example page">
     <meta name="csrf_token" content="{{ csrf_token() }}">
@@ -90,7 +89,7 @@
                                     </ul>
                                 </div>
                             </li>
-
+s
                             <li class="m-menu__item">
                                 <a  href="/user/profile" class="m-menu__link m-menu__toggle">
                                     <i class="m-menu__link-icon flaticon-paper-plane"></i>
